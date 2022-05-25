@@ -1,0 +1,152 @@
+body {
+    background-color: white;
+    color: silver;
+    font-family: 'Abril Fatface', cursive;
+}
+
+img {
+    height: 200px;
+    width: 370px;
+    background-color: darkblue;
+    margin-right: 49px;
+    margin-left: 64px;
+    padding: 1px;
+    border: 5px groove grey;
+}
+
+li:hover {
+    background-color: white;
+
+}
+
+.title {
+    text-align: center;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nava {
+    background-color: grey;
+    border: 8px solid darkblue;
+    margin: 20px;
+    padding: 10px;
+}
+
+.nav1:hover {
+    background-color: grey;
+}
+
+.nav1 {
+    color: blue;
+    border: 8px groove silver;
+    background-color: white;
+}
+
+.nav2:hover {
+    background-color: grey;
+}
+
+.nav2 {
+    color: blue;
+    border: 8px groove silver;
+    background-color: white;
+}
+
+.nav3:hover {
+    background-color: grey;
+}
+
+.nav3 {
+    color: blue;
+    border: 8px groove silver;
+    background-color: white;
+}
+
+.nav4:hover {
+    background-color: grey;
+}
+
+.nav4 {
+    color: blue;
+    border: 8px groove silver;
+    background-color: white;
+}
+
+.nav5:hover {
+    background-color: grey;
+}
+
+.nav5 {
+    color: blue;
+    border: 8px groove silver;
+    background-color: white;
+}
+
+.quotes1part1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.qoutespart2 {
+    display: flex;
+    text-align: center;
+    margin-right: 55px;
+    margin-top: 10px;
+}
+
+.quo {
+    border: 5px double grey;
+    background-color: darkblue;
+    color: silver;
+    margin: 15px;
+}
+
+.section1:hover {
+    background-color: grey;
+}
+
+.section1 {
+    background-color: white;
+    border: 5px dashed silver;
+    padding: 1px;
+    margin: 1px;
+}
+
+.section2:hover {
+    background-color: grey;
+}
+
+.section2 {
+    background-color: white;
+    border: 5px dashed silver;
+    padding: 1px;
+    margin: 1px;
+
+}
+
+.section3:hover {
+    background-color: grey;
+}
+
+.section3 {
+    background-color: white;
+    border: 5px dashed silver;
+    padding: 1px;
+    margin: 1px;
+}
+
+.posts {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 10px;
+    margin: 20px;
+}
+
+.links {
+    font-size: 13px;
+}
